@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Genius Quiz",
+  "description": "An interactive and challenging general knowledge quiz powered by the Gemini API. Test your intellect with hard questions, track your score, and receive a personalized performance analysis.",
+  "requestFramePermissions": []
+}
